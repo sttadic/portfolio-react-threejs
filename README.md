@@ -1,8 +1,7 @@
-# Personal 3D Portfolio Website
+## 3D Portfolio Website
+> ⚠️ This project is based on a tutorial and was created for learning purposes. Most design and interaction logic is not original.
 
-🚧 Work in progress
-
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 
 - [React](https://reactjs.org/)
 - [Three.js](https://threejs.org/) via [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/)
@@ -10,7 +9,7 @@
 - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) — effects like bloom, noise, etc.
 - [GSAP](https://gsap.com/) with [@gsap/react](https://www.npmjs.com/package/@gsap/react) — advanced animations
 
-## ✨ Planned Features
+### ✨ Planned Features
 
 - Smooth GSAP animations and page transitions
 - 3D visuals and interactive scenes powered by React Three Fiber
