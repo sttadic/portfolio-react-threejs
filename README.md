@@ -1,5 +1,8 @@
 ## 3D Portfolio Website
-> ⚠️ This project is based on a tutorial and was created for learning purposes. Most design and interaction logic is not original.
+
+This 3D portfolio website in being built as part of a tutorial for learning purposes.
+> Based on:  
+[Build and Deploy a Unique 3D Web Developer Portfolio with React, Three JS & GSAP (YouTube Tutorial by JavaScript Mastery)](https://www.youtube.com/watch?v=E-fdPfRxkzQ)
 
 ### 🔧 Tech Stack
 
@@ -9,7 +12,7 @@
 - [@react-three/postprocessing](https://github.com/pmndrs/react-postprocessing) — effects like bloom, noise, etc.
 - [GSAP](https://gsap.com/) with [@gsap/react](https://www.npmjs.com/package/@gsap/react) — advanced animations
 
-### ✨ Planned Features
+### ✨ Features
 
 - Smooth GSAP animations and page transitions
 - 3D visuals and interactive scenes powered by React Three Fiber
@@ -17,3 +20,6 @@
 - Contact form
 
 ---
+
+🛠️ Future Plans:
+I may iterate on this project in the future to explore more original 3D design ideas and custom interactions.
